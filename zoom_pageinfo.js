@@ -7,7 +7,7 @@ pageinfo = [[1731306086,0,0,0,null],
 	[1727866622,0,0,0,null],
 	[1727866636,0,0,0,null],
 	[1727866612,0,0,0,null],
-	[1730789508,0,0,0,null],
+	[1731418012,0,0,0,null],
 	[1727866802,0,0,0,null],
 	[1727866630,0,0,0,null],
 	[1695125856,0,0,0,null],
@@ -39,7 +39,7 @@ pageinfo = [[1731306086,0,0,0,null],
 	[1727866782,0,0,0,null],
 	[1731406818,0,0,0,null],
 	[1727866808,0,0,0,null],
-	[1730705814,0,0,0,null]];
+	[1731500718,0,0,0,null]];
 pagedata = [ ["./accountingsystemintegration.html","Accounting system integration","Overview  Reduce errors and increase productivity with a single point of entry. DevMan integrates to various finance and accounting systems, ...","./images/zoomimage.jpg"],
 ["./businessunits.html","Business units","Overview  DevMan allows you to set up all your business units for an organisation in an easy to see hierarchy using 4 levels. Your institutio...","./images/zoomimage.jpg"],
 ["./consent.html","Consent","Overview  Get your POPIA implementation plan off the ground, and painlessly achieve compliance by making practical use of the Consent module....","./images/zoomimage.jpg"],
@@ -81,4 +81,4 @@ pagedata = [ ["./accountingsystemintegration.html","Accounting system integratio
 ["./searchreport.html","Search &#38; report","Overview  DevMan&#39;s report and analytics platform provides rich search and reporting for all areas. Draw statistical high level summaries and ...","./images/zoomimage.jpg"],
 ["./section18areceipts.html","Section 18A receipts","Overview  Encourage donor giving by promptly providing any documentation they need for tax benefits available in their country.  Topics ...","./images/zoomimage.jpg"],
 ["./securityadvanced.html","Advanced","Overview  Secure your data, align DevMan user access with the security protocols in place at your organisation. These topics cover activities...","./images/zoomimage.jpg"],
-["./whatsnew.html","What&#39;s new","New features in DevMan  DevMan self-service portal Say goodbye to the hassle of capturing SARS data. Donors can now update their own tax deta...","./images/zoomimage.jpg"]];
+["./whatsnew.html","What&#39;s new","New features in DevMan  Alumni integration Alumni integration has never been easier. We have streamlined the process for our existing integra...","./images/zoomimage.jpg"]];
