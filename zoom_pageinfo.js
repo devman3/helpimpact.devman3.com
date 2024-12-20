@@ -37,7 +37,7 @@ pageinfo = [[1731306086,0,0,0,null],
 	[1730901624,0,0,0,null],
 	[1727866788,0,0,0,null],
 	[1727866782,0,0,0,null],
-	[1734682156,0,0,0,null],
+	[1734682740,0,0,0,null],
 	[1727866808,0,0,0,null],
 	[1731500718,0,0,0,null]];
 pagedata = [ ["./accountingsystemintegration.html","Accounting system integration","Overview  Reduce errors and increase productivity with a single point of entry. DevMan integrates to various finance and accounting systems, ...","./images/zoomimage.jpg"],
