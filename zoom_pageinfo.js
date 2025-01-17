@@ -38,7 +38,7 @@ pageinfo = [[1731306086,0,0,0,null],
 	[1727866788,0,0,0,null],
 	[1727866782,0,0,0,null],
 	[1736753130,0,0,0,null],
-	[1737094442,0,0,0,null],
+	[1737094950,0,0,0,null],
 	[1731500718,0,0,0,null]];
 pagedata = [ ["./accountingsystemintegration.html","Accounting system integration","Overview  Reduce errors and increase productivity with a single point of entry. DevMan integrates to various finance and accounting systems, ...","./images/zoomimage.jpg"],
 ["./businessunits.html","Business units","Overview  DevMan allows you to set up all your business units for an organisation in an easy to see hierarchy using 4 levels. Your institutio...","./images/zoomimage.jpg"],
